@@ -132,17 +132,17 @@ a:hover{
     color:#00531d;
     font-family: sans-serif;
     font-size: 16px;
-    left:40%;
+    left:35%;
     display: inline-block;
     position: absolute;
     padding-top: 20px;
 }
+
 .work_container_pc .work_02,
 .work_container_pc .work_03,
 .work_container_pc .work_04,
 .work_container_pc .work_07,
 .work_container_pc .work_05,
-.work_container_pc .work_08,
 .work_container_pc .work_06{
     width: 100%;
     display: block;
@@ -152,13 +152,11 @@ a:hover{
 .work_container_pc .work_03 img,
 .work_container_pc .work_04 img,
 .work_container_pc .work_05 img,
-.work_container_pc .work_08 img,
 .work_container_pc .work_07 img,
 .work_container_pc .work_06 img{
     width: 100%;
 }
 .work_container_pc .work_02 p,
-.work_container_pc .work_08 p,
 .work_container_pc .work_03 p{
     color:#00531d;
     font-family: sans-serif;
@@ -176,7 +174,7 @@ a:hover{
     color:#00531d;
     font-family: sans-serif;
     font-size: 16px;
-    left:50%;
+    left:56%;
     margin-left: -188px;
     display: inline-block;
     position: absolute;
@@ -525,6 +523,8 @@ a:hover{
     margin-top: 40px;
     padding-left: 10%;
 }
+
+
 /*颐和园页面*/
 .summerpalace{
     width: 100%;
@@ -539,7 +539,7 @@ a:hover{
 }
 .summerpalace_box .bg_m{
     height:1080px;
-    background: url("../images/summerpalace_bg_m.png") no-repeat center/cover;
+    background: url("../images/summerpalace_bg.png") no-repeat center/cover;
 }
 .summerpalace_box .content_box{
     width:100%;
@@ -624,6 +624,8 @@ a:hover{
     margin-top: 40px;
     padding-left: 10%;
 }
+
+
 /*web页面*/
 .web{
     width: 100%;
@@ -723,33 +725,34 @@ a:hover{
     padding-left: 10%;
 }
 
-/*音响页面*/
-.product{
+
+/*mo ku页面*/
+.moku{
     width: 100%;
 }
-.product_box{
+.moku_box{
     width: 100%;
     position: relative;
 }
-.product_box .bg{
+.moku_box .bg{
     height:1080px;
-    background: url("../images/product_bg.png") no-repeat center/cover;
+    background: url("../images/moku_bg.png") no-repeat center/cover;
 }
-.product_box .bg_m{
+.moku_box .bg_m{
     height:1080px;
-    background: url("../images/product_bg_m.png") no-repeat center/cover;
+    background: url("../images/moku_bg.png") no-repeat center/cover;
 }
-.product_box .content_box{
+.moku_box .content_box{
     width:100%;
     margin:0 auto;
     position: relative;
     background:white;
 }
-.web_box .content_box .text {
+.moku_box .content_box .text {
     background: white;
     height: 500px;
 }
-.content_box .text .text_01{
+.moku_box .text .text_01{
     display: block;
     color:#212121;
     font-family: sans-serif;
@@ -759,7 +762,7 @@ a:hover{
     padding-top: 40px;
     padding-left: 20%;
 }
-.content_box .text .text_02{
+.moku_box .text .text_02{
     display: block;
     color:#212121;
     font-family: sans-serif;
@@ -769,7 +772,7 @@ a:hover{
     padding-top: 50px;
     padding-left: 20%;
 }
-.content_box .text .text_03_pc{
+.moku_box .text .text_03_pc{
     display: block;
     color:#212121;
     font-family: sans-serif;
@@ -779,7 +782,7 @@ a:hover{
     padding-top: 50px;
     padding-left: 20%;
 }
-.content_box .text .text_03_m{
+.moku_box .text .text_03_m{
     display: block;
     color:#212121;
     font-family: sans-serif;
@@ -791,28 +794,28 @@ a:hover{
     padding-right: 20%;
 }
 
-.product_box .content_box .imgBox{
+.moku_box .content_box .imgBox{
     width: 100%;
     position: absolute;
 }
-.product_box .content_box .imgBox img{
+.moku_box .content_box .imgBox img{
     width: 100%;
 }
-.product_box .content_box .videoBox{
+.moku_box .content_box .videoBox{
     width: 80%;
     position: absolute;
     padding-left: 20%;
     display: block;
     padding-bottom: 50px;
 }
-.product_box .content_box .videoBox video{
+.moku_box .content_box .videoBox video{
     width: 100%;
 }
-.product_box .content_box .videoBox .next_pc{
+.moku_box .content_box .videoBox .next_pc{
     height: 160px;
     display: block;
 }
-.product_box .content_box .videoBox .next_pc a{
+.moku_box .content_box .videoBox .next_pc a{
     display: inline-block;
     color:#212121;
     font-family: sans-serif;
@@ -820,11 +823,11 @@ a:hover{
     margin-top: 40px;
     padding-left: 30%;
 }
-.product_box .content_box .videoBox .next_m{
+.moku_box .content_box .videoBox .next_m{
     height: 160px;
     display: block;
 }
-.product_box .content_box .videoBox .next_m a{
+.moku_box .content_box .videoBox .next_m a{
     display: inline-block;
     color:#212121;
     font-family: sans-serif;
@@ -846,7 +849,7 @@ a:hover{
 }
 .branding_box .bg_m{
     height:1080px;
-    background: url("../images/branding_bg_m.png") no-repeat center/cover;
+    background: url("../images/branding_bg.png") no-repeat center/cover;
 }
 .branding_box .content_box{
     width:100%;
@@ -941,7 +944,7 @@ a:hover{
     margin-top: 40px;
     padding-left: 10%;
 }
-/*移动端页面*/
+/*Coderiver页面*/
 .mobile{
     width: 100%;
 }
@@ -951,11 +954,11 @@ a:hover{
 }
 .mobile_box .bg{
     height:1080px;
-    background: url("../images/mobile_bg.png") no-repeat center/cover;
+    background: url("../images/mobile_11.png") no-repeat center/cover;
 }
 .mobile_box .bg_m{
     height:1080px;
-    background: url("../images/mobile_bg_m.png") no-repeat center/cover;
+    background: url("../images/mobile_11.png") no-repeat center/cover;
 }
 .mobile_box .content_box{
     width:100%;
@@ -1055,7 +1058,7 @@ a:hover{
 }
 .graphic_box .bg_m{
     height:1080px;
-    background: url("../images/graphic_bg_m.png") no-repeat center/cover;
+    background: url("../images/graphic_bg.png") no-repeat center/cover;
 }
 .graphic_box .content_box{
     width:100%;
@@ -1130,115 +1133,6 @@ a:hover{
     height: 160px;
 }
 .graphic_box .content_box .imgBox .next_m a{
-    display: inline-block;
-    color:#212121;
-    font-family: sans-serif;
-    font-size: 16px;
-    margin-top: 40px;
-    padding-left: 10%;
-}
-
-/*动画页面*/
-.motion{
-    width: 100%;
-}
-.motion_box{
-    width: 100%;
-    position: relative;
-}
-.motion_box .bg{
-    height:1080px;
-    background: url("../images/motion_bg.png") no-repeat center/cover;
-}
-.motion_box .bg_m{
-    height:1080px;
-    background: url("../images/motion_bg_m.png") no-repeat center/cover;
-}
-.motion_box .content_box{
-    width:100%;
-    margin:0 auto;
-    position: relative;
-    background:white;
-}
-.motion_box .content_box .text {
-    background: white;
-    height: 500px;
-}
-.content_box .text .text_01{
-    display: block;
-    color:#212121;
-    font-family: sans-serif;
-    font-size: 16px;
-    font-weight: bold;
-    text-align: left;
-    padding-top: 40px;
-    padding-left: 20%;
-}
-.content_box .text .text_02{
-    display: block;
-    color:#212121;
-    font-family: sans-serif;
-    font-size: 20px;
-    font-weight: bold;
-    text-align: left;
-    padding-top: 50px;
-    padding-left: 20%;
-}
-.content_box .text .text_03_pc{
-    display: block;
-    color:#212121;
-    font-family: sans-serif;
-    font-size: 18px;
-    width: 60%;
-    text-align: left;
-    padding-top: 50px;
-    padding-left: 20%;
-}
-.content_box .text .text_03_m{
-    display: block;
-    color:#212121;
-    font-family: sans-serif;
-    font-size: 16px;
-    width: 100%;
-    text-align: left;
-    padding-top: 50px;
-    padding-left: 20%;
-    padding-right: 20%;
-}
-
-.motion_box .content_box .imgBox{
-    width: 100%;
-    position: absolute;
-}
-.motion_box .content_box .imgBox img{
-    width: 100%;
-}
-.motion_box .content_box .videoBox{
-    width: 100%;
-    position: absolute;
-    display: block;
-    padding-bottom: 50px;
-}
-.motion_box .content_box .videoBox video{
-    width: 100%;
-}
-.motion_box .content_box .videoBox .next_pc{
-    height: 160px;
-    display: block;
-}
-.motion_box .content_box .videoBox .next_pc a{
-    display: inline-block;
-    color:#212121;
-    font-family: sans-serif;
-    font-size: 18px;
-    margin-top: 40px;
-    padding-left: 30%;
-}
-.motion_box .content_box .videoBox .next_m{
-    height: 160px;
-    display: block;
-}
-.motion_box .content_box .videoBox .next_m a{
     display: inline-block;
     color:#212121;
     font-family: sans-serif;
