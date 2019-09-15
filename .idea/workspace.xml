@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c6e03913-8bf3-422d-aa5b-8a2c8757a6ef" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/illustration.html" beforeDir="false" afterPath="$PROJECT_DIR$/illustration.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/mobile_15.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/mobile_15.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mobile.html" beforeDir="false" afterPath="$PROJECT_DIR$/mobile.html" afterDir="false" />
-    </list>
+    <list default="true" id="c6e03913-8bf3-422d-aa5b-8a2c8757a6ef" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -19,8 +12,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DefaultGradleProjectSettings">
-    <option name="testRunner" value="GRADLE" />
-    <option name="delegatedBuild" value="true" />
+    <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
     <leaf />
@@ -48,10 +40,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="111" />
-    <option name="y" value="21" />
-    <option name="width" value="1288" />
-    <option name="height" value="819" />
+    <option name="x" value="110" />
+    <option name="y" value="20" />
+    <option name="width" value="1289" />
+    <option name="height" value="820" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -117,7 +109,7 @@
       <workItem from="1541958187568" duration="1914000" />
       <workItem from="1544808671230" duration="4623000" />
       <workItem from="1566851609013" duration="204000" />
-      <workItem from="1568567681809" duration="272000" />
+      <workItem from="1568567681809" duration="347000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1566851675291</created>
@@ -126,11 +118,18 @@
       <option name="project" value="LOCAL" />
       <updated>1566851675291</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="update">
+      <created>1568567970937</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1568567970937</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="47234000" />
+    <option name="totallyTimeSpent" value="47309000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
