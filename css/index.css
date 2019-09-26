@@ -410,13 +410,13 @@ a:hover{
     width: 100%;
     position: relative;
 }
-.illustration_box .bg{
+.illustration_box .bg {
     height:1080px;
     background: url("../images/illustration_01.png") no-repeat center/cover;
 }
 .illustration_box .bg_m{
-    height:400px;
-    background: url("../images/illustration_bg_m.png") no-repeat center/cover;
+    height:1080px;
+    background: url("../images/illustration_01.png") no-repeat center/cover;
 }
 .illustration_box .content_box{
     width:100%;
@@ -515,10 +515,12 @@ a:hover{
     height:1080px;
     background: url("../images/summerpalace_bg.png") no-repeat center/cover;
 }
+
 .summerpalace_box .bg_m{
-    height:350px;
-    background: url("../images/summerpalace_bg_m.png") no-repeat center/cover;
+    height:1080px;
+    background: url("../images/summerpalace_bg.png") no-repeat center/cover;
 }
+
 .summerpalace_box .content_box{
     width:100%;
     margin:0 auto;
@@ -601,13 +603,13 @@ a:hover{
     width: 100%;
     position: relative;
 }
-.web_box .bg{
+.web_box .bg {
     height:1080px;
     background: url("../images/web_bg.png") no-repeat center/cover;
 }
 .web_box .bg_m{
-    height:400px;
-    background: url("../images/web_bg_m.png") no-repeat center/cover;
+    height:1080px;
+    background: url("../images/web_bg.png") no-repeat center/cover;
 }
 
 .web_box .content_box{
@@ -706,9 +708,10 @@ a:hover{
     background: url("../images/moku_bg.png") no-repeat center/cover;
 }
 .moku_box .bg_m{
-    height:400px;
-    background: url("../images/moku_bg_m.png") no-repeat center/cover;
+    height:1080px;
+    background: url("../images/moku_bg.png") no-repeat center/cover;
 }
+
 .moku_box .content_box{
     width:100%;
     margin:0 auto;
@@ -918,14 +921,15 @@ a:hover{
     width: 100%;
     position: relative;
 }
+.mobile_box .bg_m{
+    height:1080px;
+    background: url("../images/mobile_11.png") no-repeat center/cover;
+}
 .mobile_box .bg{
     height:1080px;
     background: url("../images/mobile_11.png") no-repeat center/cover;
 }
-.mobile_box .bg_m{
-    height:300px;
-    background: url("../images/mobile_bg_m.png") no-repeat center/cover;
-}
+
 .mobile_box .content_box{
     width:100%;
     margin:0 auto;
@@ -1010,8 +1014,8 @@ a:hover{
     background: url("../images/design_01.png") no-repeat center/cover;
 }
 .graphic_box .bg_m{
-    height:300px;
-    background: url("../images/design_01_m.png") no-repeat center/cover;
+    height:1080px;
+    background: url("../images/design_01.png") no-repeat center/cover;
 }
 .graphic_box .content_box{
     width:100%;
@@ -1087,9 +1091,10 @@ a:hover{
     background: url("../images/branding_bg.png") no-repeat center/cover;
 }
 .penta_box .bg_m{
-    height:330px;
-    background: url("../images/branding_bg_m.png") no-repeat center/cover;
+    height:1080px;
+    background: url("../images/branding_bg.png") no-repeat center/cover;
 }
+
 .penta_box .content_box{
     width:100%;
     margin:0 auto;
@@ -1144,6 +1149,85 @@ a:hover{
     height: 160px;
 }
 .penta_box .content_box .imgBox .next_m a{
+    display: inline-block;
+    color:#212121;
+    font-family: sans-serif;
+    font-size: 16px;
+    margin-top: 40px;
+    padding-left: 10%;
+}
+
+
+/*miniprogram-page*/
+.miniprogram{
+    width: 100%;
+}
+.miniprogram_box{
+    width: 100%;
+    position: relative;
+}
+.miniprogram_box .bg{
+    height:1080px;
+    background: url("../images/miniprogram_01.png") no-repeat center/cover;
+}
+.miniprogram_box .bg_m{
+    height:1080px;
+    background: url("../images/miniprogram_01.png") no-repeat center/cover;
+}
+.miniprogram_box .content_box{
+    width:100%;
+    margin:0 auto;
+    position: relative;
+    background:white;
+}
+.miniprogram .content_box .text {
+    background: white;
+    height: 500px;
+}
+.miniprogram .text .text_01{
+    display: block;
+    color:#212121;
+    font-family: sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+    text-align: left;
+    padding-top: 40px;
+    padding-left: 10%;
+}
+.miniprogram .text .text_02{
+    display: block;
+    color:#212121;
+    font-family: sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: left;
+    padding-top: 50px;
+    padding-left: 10%;
+}
+
+.miniprogram_box .content_box .imgBox{
+    width: 100%;
+    position: absolute;
+}
+.miniprogram_box .content_box .imgBox img{
+    width: 100%;
+    padding-bottom: 20px;
+}
+.miniprogram_box .content_box .imgBox .next_pc{
+    height: 160px;
+}
+.miniprogram_box .content_box .imgBox .next_pc a{
+    display: inline-block;
+    color:#212121;
+    font-family: sans-serif;
+    font-size: 18px;
+    margin-top: 40px;
+    padding-left: 30%;
+}
+.miniprogram_box .content_box .imgBox .next_m{
+    height: 160px;
+}
+.miniprogram_box .content_box .imgBox .next_m a{
     display: inline-block;
     color:#212121;
     font-family: sans-serif;
