@@ -371,6 +371,9 @@ a:hover{
     display: inline-block;
     padding-right: 20px;
 }
+
+
+
 /*插画页面*/
 
 .mouse{
@@ -501,7 +504,206 @@ a:hover{
     margin-top: 40px;
     padding-left: 10%;
 }
+/*marriott*/
+.marriott{
+    width: 100%;
+}
+.marriott_box{
+    width: 100%;
+    position: relative;
+}
+.marriott_box .bg {
+    height:1080px;
+    background: url("../images/marriott_bg.png") no-repeat center/cover;
+}
+.marriott_box .bg_m{
+    height:1080px;
+    background: url("../images/marriott_bg.png") no-repeat center/cover;
+}
+.marriott_box .content_box{
+    width:100%;
+    margin:0 auto;
+    position: relative;
+    background:white;
+}
+.marriott_box .content_box .text {
+    background: white;
+    height: 500px;
+}
+.content_box .text .text_01{
+     display: block;
+     color:#212121;
+     font-family: sans-serif;
+     font-size: 16px;
+     font-weight: bold;
+     text-align: left;
+     padding-top: 40px;
+    padding-left: 20%;
+ }
+.content_box .text .text_02{
+    display: block;
+    color:#212121;
+    font-family: sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: left;
+    padding-top: 50px;
+    padding-left: 20%;
+}
+.content_box .text .text_03_pc{
+    display: block;
+    color:#212121;
+    font-family: sans-serif;
+    font-size: 18px;
+    width: 60%;
+    text-align: left;
+    padding-top: 50px;
+    padding-left: 20%;
+}
+.content_box .text .text_03_m{
+    display: block;
+    color:#212121;
+    font-family: sans-serif;
+    font-size: 16px;
+    width: 100%;
+    text-align: left;
+    padding-top: 50px;
+    padding-left: 20%;
+    padding-right: 20%;
+}
 
+
+.marriott_box .content_box .imgBox{
+    width: 100%;
+    position: absolute;
+    display: block;
+}
+.marriott_box .content_box .imgBox img{
+    width: 100%;
+}
+.marriott_box .content_box .imgBox .next_pc{
+    height: 160px;
+}
+.marriott_box .content_box .imgBox .next_pc a{
+    display: inline-block;
+    color:#212121;
+    font-family: sans-serif;
+    font-size: 18px;
+    margin-top: 40px;
+    padding-left: 30%;
+}
+.marriott_box .content_box .imgBox .next_m{
+    height: 160px;
+}
+.marriott_box .content_box .imgBox .next_m a{
+    display: inline-block;
+    color:#212121;
+    font-family: sans-serif;
+    font-size: 16px;
+    margin-top: 40px;
+    padding-left: 10%;
+}
+
+
+/*spacebase*/
+.spacebase{
+    width: 100%;
+}
+.spacebase_box{
+    width: 100%;
+    position: relative;
+}
+.spacebase_box .bg {
+    height:1080px;
+    background: url("../images/spacebase_bg.png") no-repeat center/cover;
+}
+.spacebase_box .bg_m{
+    height:1080px;
+    background: url("../images/spacebase_bg.png") no-repeat center/cover;
+}
+.spacebase_box .content_box{
+    width:100%;
+    margin:0 auto;
+    position: relative;
+    background:white;
+}
+.spacebase_box .content_box .text {
+    background: white;
+    height: 500px;
+}
+.content_box .text .text_01{
+     display: block;
+     color:#212121;
+     font-family: sans-serif;
+     font-size: 16px;
+     font-weight: bold;
+     text-align: left;
+     padding-top: 40px;
+    padding-left: 20%;
+ }
+.content_box .text .text_02{
+    display: block;
+    color:#212121;
+    font-family: sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: left;
+    padding-top: 50px;
+    padding-left: 20%;
+}
+.content_box .text .text_03_pc{
+    display: block;
+    color:#212121;
+    font-family: sans-serif;
+    font-size: 18px;
+    width: 60%;
+    text-align: left;
+    padding-top: 50px;
+    padding-left: 20%;
+}
+.content_box .text .text_03_m{
+    display: block;
+    color:#212121;
+    font-family: sans-serif;
+    font-size: 16px;
+    width: 100%;
+    text-align: left;
+    padding-top: 50px;
+    padding-left: 20%;
+    padding-right: 20%;
+}
+
+
+.spacebase_box .content_box .imgBox{
+    width: 100%;
+    position: absolute;
+    display: block;
+}
+.spacebase_box .content_box .imgBox img{
+    width: 100%;
+}
+.spacebase_box .content_box .imgBox .next_pc{
+    height: 160px;
+}
+.spacebase_box .content_box .imgBox .next_pc a{
+    display: inline-block;
+    color:#212121;
+    font-family: sans-serif;
+    font-size: 18px;
+    margin-top: 40px;
+    padding-left: 30%;
+}
+.spacebase_box .content_box .imgBox .next_m{
+    height: 160px;
+}
+.spacebase_box .content_box .imgBox .next_m a{
+    display: inline-block;
+    color:#212121;
+    font-family: sans-serif;
+    font-size: 16px;
+    margin-top: 40px;
+    padding-left: 10%;
+}
 
 /*颐和园页面*/
 .summerpalace{
@@ -569,7 +771,7 @@ a:hover{
 }
 .summerpalace_box .content_box .imgBox img{
     width: 100%;
-    padding-bottom: 20px;
+  
 }
 .summerpalace_box .content_box .imgBox .next_pc{
     height: 160px;
@@ -804,7 +1006,7 @@ a:hover{
     margin-top: 40px;
     padding-left: 10%;
 }
-/*ukulele页面*/
+/*Penta*/
 .branding{
     width: 100%;
 }
@@ -913,7 +1115,7 @@ a:hover{
     margin-top: 40px;
     padding-left: 10%;
 }
-/*Coderiver页面*/
+/*mobile*/
 .mobile{
     width: 100%;
 }
@@ -976,7 +1178,6 @@ a:hover{
 }
 .mobile_box .content_box .imgBox img{
     width: 100%;
-    padding-bottom: 20px;
 }
 .mobile_box .content_box .imgBox .next_pc{
     height: 160px;
@@ -1054,7 +1255,6 @@ a:hover{
 }
 .graphic_box .content_box .imgBox img{
     width: 100%;
-    padding-bottom: 20px;
 }
 .graphic_box .content_box .imgBox .next_pc{
     height: 160px;
@@ -1132,7 +1332,6 @@ a:hover{
 }
 .penta_box .content_box .imgBox img{
     width: 100%;
-    padding-bottom: 20px;
 }
 .penta_box .content_box .imgBox .next_pc{
     height: 160px;
@@ -1211,7 +1410,6 @@ a:hover{
 }
 .miniprogram_box .content_box .imgBox img{
     width: 100%;
-    padding-bottom: 20px;
 }
 .miniprogram_box .content_box .imgBox .next_pc{
     height: 160px;
