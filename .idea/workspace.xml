@@ -1,278 +1,74 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="ChangeListManager">
-    <list default="true" id="c6e03913-8bf3-422d-aa5b-8a2c8757a6ef" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/images/design_09.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/illustration_11.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/marriott-03.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/marriott_01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/marriott_02.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/marriott_04.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/marriott_bg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/marriott_home.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/miniprogram_07.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/mobile_16.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/moku_11.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/spacebase_01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/spacebase_02.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/spacebase_03.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/spacebase_04.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/spacebase_05.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/spacebase_06.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/spacebase_07.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/spacebase_bg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/spacebase_home.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/summerpalace_11.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/marriott.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spacebase.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphic.html" beforeDir="false" afterPath="$PROJECT_DIR$/graphic.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/illustration.html" beforeDir="false" afterPath="$PROJECT_DIR$/illustration.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/illustration_summer.html" beforeDir="false" afterPath="$PROJECT_DIR$/illustration_summer.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/branding_16.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/branding_16.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/home_03.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/home_04.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/home_07.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/summerpalace_10.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/summerpalace_10.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/ukulele-video.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/web_01.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/web_02.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/web_03.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/web_04.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/web_05.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/web_06.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/web_07.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/web_08.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/web_09.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/web_10.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/web_11.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/web_12.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/web_13.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/web_bg.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/web_bg_m.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/data.json" beforeDir="false" afterPath="$PROJECT_DIR$/js/data.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/less/main.less" beforeDir="false" afterPath="$PROJECT_DIR$/less/main.less" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/less/mixins.less" beforeDir="false" afterPath="$PROJECT_DIR$/less/mixins.less" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/less/test.less" beforeDir="false" afterPath="$PROJECT_DIR$/less/test.less" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/less/topBar.less" beforeDir="false" afterPath="$PROJECT_DIR$/less/topBar.less" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/less/variables.less" beforeDir="false" afterPath="$PROJECT_DIR$/less/variables.less" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/miniprogram.html" beforeDir="false" afterPath="$PROJECT_DIR$/miniprogram.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mobile.html" beforeDir="false" afterPath="$PROJECT_DIR$/mobile.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/moku.html" beforeDir="false" afterPath="$PROJECT_DIR$/moku.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/penta.html" beforeDir="false" afterPath="$PROJECT_DIR$/penta.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webdesign.html" beforeDir="false" />
-    </list>
-    <ignored path="$PROJECT_DIR$/.tmp/" />
-    <ignored path="$PROJECT_DIR$/temp/" />
-    <ignored path="$PROJECT_DIR$/tmp/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="SHOW_DIALOG" value="false" />
-    <option name="HIGHLIGHT_CONFLICTS" value="true" />
-    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
-    <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf />
-  </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/index.htm" />
-        <option value="$PROJECT_DIR$/Jael Koh - Designer.htm" />
-        <option value="$PROJECT_DIR$/Branding Design.html" />
-        <option value="$PROJECT_DIR$/about.html" />
-        <option value="$PROJECT_DIR$/mobile.html" />
-        <option value="$PROJECT_DIR$/webdesign.html" />
-        <option value="$PROJECT_DIR$/illustration_summer.html" />
-        <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/illustration.html" />
-        <option value="$PROJECT_DIR$/graphic.html" />
-        <option value="$PROJECT_DIR$/css/index.css" />
-        <option value="$PROJECT_DIR$/productdesign.html" />
-        <option value="$PROJECT_DIR$/brandingdesign.html" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="113" />
-    <option name="y" value="23" />
-    <option name="width" value="1286" />
-    <option name="height" value="817" />
-  </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
-      <pane id="ProjectPane" />
-    </panes>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="110" />
+    <option name="y" value="20" />
+    <option name="width" value="1290" />
+    <option name="height" value="820" />
   </component>
   <component name="PropertiesComponent">
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="aspect.path.notification.shown" value="true" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
+  <component name="RunManager">
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
   </component>
-  <component name="SvnConfiguration">
-    <configuration />
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
   </component>
-  <component name="TaskManager">
-    <task active="true" id="Default" summary="Default task">
-      <changelist id="c6e03913-8bf3-422d-aa5b-8a2c8757a6ef" name="Default Changelist" comment="" />
-      <created>1541240219405</created>
-      <option name="number" value="Default" />
-      <option name="presentableId" value="Default" />
-      <updated>1541240219405</updated>
-      <workItem from="1541240223957" duration="159000" />
-      <workItem from="1541240747553" duration="889000" />
-      <workItem from="1541241744962" duration="49000" />
-      <workItem from="1541241853281" duration="22533000" />
-      <workItem from="1541445712120" duration="8328000" />
-      <workItem from="1541494752453" duration="3402000" />
-      <workItem from="1541498465965" duration="698000" />
-      <workItem from="1541533510845" duration="357000" />
-      <workItem from="1541537050120" duration="688000" />
-      <workItem from="1541582311973" duration="35000" />
-      <workItem from="1541614611022" duration="3083000" />
-      <workItem from="1541958187568" duration="1914000" />
-      <workItem from="1544808671230" duration="4623000" />
-    </task>
-    <servers />
-  </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="46771000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.2513834" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout>
-    <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2513834" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout-to-restore>
-  </component>
-  <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/index.htm" />
-    <entry file="file://$PROJECT_DIR$/Jael Koh - Designer.htm" />
-    <entry file="file://$PROJECT_DIR$/../nicole_milkshake/demo/05-栅格化系统.html" />
-    <entry file="file://$PROJECT_DIR$/Branding Design.html" />
-    <entry file="file://$PROJECT_DIR$/../Milkshake_collection/index.html" />
-    <entry file="file://$PROJECT_DIR$/mobile.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="38" column="24" selection-start-line="38" selection-start-column="20" selection-end-line="38" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/webdesign.html" />
-    <entry file="file://$PROJECT_DIR$/about.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="38" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/illustration_summer.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="113">
-          <caret line="51" column="106" selection-start-line="51" selection-start-column="106" selection-end-line="51" selection-end-column="106" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="362">
-          <caret line="57" column="38" selection-start-line="57" selection-start-column="25" selection-end-line="57" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/illustration.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="394">
-          <caret line="74" column="18" lean-forward="true" selection-start-line="54" selection-start-column="12" selection-end-line="74" selection-end-column="18" />
-          <folding>
-            <element signature="n#div#1;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#0;n#div#2;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#1;n#div#2;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#0;n#div#1;n#div#2;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/graphic.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="70" lean-forward="true" selection-start-line="70" selection-end-line="70" />
-          <folding>
-            <element signature="n#div#0;n#div#0;n#div#1;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#1;n#div#0;n#div#1;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/index.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="576">
-          <caret line="742" column="21" lean-forward="true" selection-start-line="742" selection-start-column="21" selection-end-line="742" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/productdesign.html" />
-    <entry file="file://$PROJECT_DIR$/brandingdesign.html" />
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>
