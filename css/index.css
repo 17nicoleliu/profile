@@ -504,33 +504,33 @@ a:hover{
     margin-top: 40px;
     padding-left: 10%;
 }
-/*marriott*/
-.marriott{
+/*talonone*/
+.talonone{
     width: 100%;
 }
-.marriott_box{
+.talonone_box{
     width: 100%;
     position: relative;
 }
-.marriott_box .bg {
+.talonone_box .bg {
     height:1080px;
-    background: url("../images/marriott_bg.png") no-repeat center/cover;
+    background: url("../images/image_bg.png") no-repeat center/cover;
 }
-.marriott_box .bg_m{
+.talonone_box .bg_m{
     height:1080px;
-    background: url("../images/marriott_bg.png") no-repeat center/cover;
+    background: url("../images/image_bg.png") no-repeat center/cover;
 }
-.marriott_box .content_box{
+.talonone_box .content_box{
     width:100%;
     margin:0 auto;
     position: relative;
     background:white;
 }
-.marriott_box .content_box .text {
+.talonone_box .content_box .text {
     background: white;
     height: 500px;
 }
-.content_box .text .text_01{
+.talonone_box .text .text_01{
      display: block;
      color:#212121;
      font-family: sans-serif;
@@ -540,7 +540,7 @@ a:hover{
      padding-top: 40px;
     padding-left: 20%;
  }
-.content_box .text .text_02{
+.talonone_box .text .text_02{
     display: block;
     color:#212121;
     font-family: sans-serif;
@@ -550,7 +550,7 @@ a:hover{
     padding-top: 50px;
     padding-left: 20%;
 }
-.content_box .text .text_03_pc{
+.talonone_box .text .text_03_pc{
     display: block;
     color:#212121;
     font-family: sans-serif;
@@ -560,7 +560,7 @@ a:hover{
     padding-top: 50px;
     padding-left: 20%;
 }
-.content_box .text .text_03_m{
+.talonone_box .text .text_03_m{
     display: block;
     color:#212121;
     font-family: sans-serif;
@@ -573,18 +573,18 @@ a:hover{
 }
 
 
-.marriott_box .content_box .imgBox{
+.talonone_box .content_box .imgBox{
     width: 100%;
     position: absolute;
     display: block;
 }
-.marriott_box .content_box .imgBox img{
+.talonone_box .content_box .imgBox img{
     width: 100%;
 }
-.marriott_box .content_box .imgBox .next_pc{
+.talonone_box .content_box .imgBox .next_pc{
     height: 160px;
 }
-.marriott_box .content_box .imgBox .next_pc a{
+.talonone_box .content_box .imgBox .next_pc a{
     display: inline-block;
     color:#212121;
     font-family: sans-serif;
@@ -592,10 +592,10 @@ a:hover{
     margin-top: 40px;
     padding-left: 30%;
 }
-.marriott_box .content_box .imgBox .next_m{
+.talonone_box .content_box .imgBox .next_m{
     height: 160px;
 }
-.marriott_box .content_box .imgBox .next_m a{
+.talonone_box .content_box .imgBox .next_m a{
     display: inline-block;
     color:#212121;
     font-family: sans-serif;
